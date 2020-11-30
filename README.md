@@ -10,4 +10,6 @@ In this section of the project, I used the Alpaca API to fetch historical closin
 
 ### Monte Carlo Simulation
 
-* Monte Carlo Simulation of 500 runs and 30 years for the 60/40 portfolio 
+* Monte Carlo Simulation of 500 runs and 30 years for a 60/40 portfolio. 
+* Using the ending cumulative returns, I plotted a histogram of the results and plotted the 90% confidence interval as vertical lines on the histogram.
+
