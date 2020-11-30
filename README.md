@@ -4,6 +4,11 @@
 
 In this section of the project, I used the Plaid API to obtain transaction and account data that will be used for my budget analysis.
 
+Previous year's gross income was: $7893
+
+Current monthly income is: $500
+
+Projected yearly income is: $6085
 ## Retirement Planner 
 
 In this section of the project, I used the Alpaca API to fetch historical closing prices for a retirement portfolio and then ran Monte Carlo simulations to project the portfolio performance at 30 years.
