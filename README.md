@@ -1,8 +1,15 @@
+![image](https://user-images.githubusercontent.com/65314799/100649561-3a8ce800-3308-11eb-9c03-d21703072f34.png)
+
 # Budget Analysis and Retirement Planner
 
 ## Budget Analysis
 
 In this section of the project, I used the Plaid API to obtain transaction and account data that will be used for my budget analysis.
+
+![image](https://user-images.githubusercontent.com/65314799/100649490-22b56400-3308-11eb-84b4-2e60e6ad8d81.png)
+
+
+![image](https://user-images.githubusercontent.com/65314799/100649314-e3871300-3307-11eb-8d17-3589dab51ed6.png)
 
 Previous year's gross income was: $7893
 
@@ -16,7 +23,14 @@ In this section of the project, I used the Alpaca API to fetch historical closin
 ### Monte Carlo Simulation
 
 * Monte Carlo Simulation of 500 runs and 30 years for a 60/40 portfolio. 
+
+![image](https://user-images.githubusercontent.com/65314799/100649416-09141c80-3308-11eb-8473-c7459829d5db.png)
+
+
 * Using the ending cumulative returns, I plotted a histogram of the results and plotted the 90% confidence interval as vertical lines on the histogram.
+
+![image](https://user-images.githubusercontent.com/65314799/100649370-f7327980-3307-11eb-8c6f-e1c8faf325a4.png)
+
 
 ## Retirement Analysis
 
