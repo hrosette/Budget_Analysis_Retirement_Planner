@@ -42,9 +42,4 @@ Given an initial investment of $20,000, the expected portfolio returns in dollar
 * 50th percentile = 152459.353509
 * 90th percentile = 588809.209971
 
-Given the current projected annual income from the Plaid analysis, a 4% withdraw rate from the retirement portfolio does not meet or exceed the value at the 10th percentile. 
-
-    Retirement income would be $1671.38 and current projected income is $6085.
-
-    A 50% increase in the initial investment amount will increase the 4% retirement withdrawal from $1671.38 to $2507.07.
-    This still does not meet the current projected income of $6085
+Given the current projected annual income from the Plaid analysis, a 4% withdraw rate from the retirement portfolio does not meet or exceed the value at the 10th percentile. The retirement income would be $1671.38 and current projected income is $6085. A 50% increase in the initial investment amount will increase the 4% retirement withdrawal from $1671.38 to $2507.07. This still does not meet the current projected income of $6085
